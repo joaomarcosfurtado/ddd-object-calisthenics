@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/ddd-object-calisthenics-web-api.props" />
+</Project>

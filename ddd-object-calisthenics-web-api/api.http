@@ -1,0 +1,8 @@
+### Criar usuário
+POST https://fluffy-enigma-p97v6vj7p7gf996p-5172.app.github.dev/api/user
+Content-Type: application/json
+
+{
+  "name": "João",
+  "email": "joaoxample.com"
+}
